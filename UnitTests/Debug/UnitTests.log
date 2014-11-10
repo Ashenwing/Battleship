@@ -1,0 +1,18 @@
+﻿La génération a démarré 5/22/2014 11:31:24 PM.
+     1>Projet "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\UnitTests\UnitTests.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\UnitTests.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\UnitTests.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\UnitTests.lib" /MACHINE:X86 /DLL Debug\stdafx.obj
+         Debug\unittest1.obj
+         "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\Data.lib"
+         "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\GamePlay.lib"
+            Création de la bibliothèque C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\UnitTests.lib et de l'objet C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\UnitTests.exp
+     1>GamePlay.lib(ComputerPlayer.obj) : error LNK2019: symbole externe non résolu "public: __thiscall EndGamePanelUI::EndGamePanelUI(bool)" (??0EndGamePanelUI@@QAE@_N@Z) référencé dans la fonction "protected: virtual bool __thiscall ComputerPlayer::IsBoatDestroyed(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class Matrix::GameGrid *)" (?IsBoatDestroyed@ComputerPlayer@@MAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVGameGrid@Matrix@@@Z)
+     1>GamePlay.lib(ComputerPlayerExpert.obj) : error LNK2001: symbole externe non résolu "public: __thiscall EndGamePanelUI::EndGamePanelUI(bool)" (??0EndGamePanelUI@@QAE@_N@Z)
+     1>GamePlay.lib(ComputerPlayer.obj) : error LNK2019: symbole externe non résolu "public: __thiscall EndGamePanelUI::~EndGamePanelUI(void)" (??1EndGamePanelUI@@QAE@XZ) référencé dans la fonction "protected: virtual bool __thiscall ComputerPlayer::IsBoatDestroyed(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class Matrix::GameGrid *)" (?IsBoatDestroyed@ComputerPlayer@@MAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAVGameGrid@Matrix@@@Z)
+     1>GamePlay.lib(ComputerPlayerExpert.obj) : error LNK2001: symbole externe non résolu "public: __thiscall EndGamePanelUI::~EndGamePanelUI(void)" (??1EndGamePanelUI@@QAE@XZ)
+     1>C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\UnitTests.dll : fatal error LNK1120: 2 externes non résolus
+     1>Génération du projet "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\UnitTests\UnitTests.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.40

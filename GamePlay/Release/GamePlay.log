@@ -1,0 +1,24 @@
+﻿La génération a démarré 5/22/2014 5:09:14 AM.
+     1>Projet "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\GamePlay\GamePlay.vcxproj" sur le nœud 2 (Rebuild cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ComputerGameGrid.cpp ComputerPlayer.cpp ComputerPlayerExpert.cpp GameGrid.cpp GoodHit.cpp HumanGameGrid.cpp HumanPlayer.cpp Player.cpp PlayGame.cpp Tile.cpp
+         ComputerGameGrid.cpp
+         ComputerPlayer.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\DialogUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         ComputerPlayerExpert.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\GridUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         GameGrid.cpp
+         GoodHit.cpp
+         HumanGameGrid.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\GridUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         HumanPlayer.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\GridUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         Player.cpp
+         PlayGame.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\GridUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         Tile.cpp
+     1>Génération du projet "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\GamePlay\GamePlay.vcxproj" terminée (Rebuild cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:04.50

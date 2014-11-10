@@ -1,0 +1,25 @@
+﻿La génération a démarré 5/22/2014 5:09:18 AM.
+     1>Projet "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Battleships2\Battleships2.vcxproj" sur le nœud 2 (Rebuild cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt DialogUI.cpp EndGamePanelUI.cpp GameUI.cpp GridUI.cpp Main.cpp MenuUI.cpp NewGameUI.cpp SetupBoatsUI.cpp
+         DialogUI.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\DialogUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         EndGamePanelUI.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\DialogUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         GameUI.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\GameUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         GridUI.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\GridUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         Main.cpp
+     1>Main.cpp(1): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         MenuUI.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\MenuUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         NewGameUI.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\NewGameUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+         SetupBoatsUI.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\battleships2\GridUI.h(2): fatal error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+     1>Génération du projet "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Battleships2\Battleships2.vcxproj" terminée (Rebuild cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.39

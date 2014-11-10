@@ -1,0 +1,13 @@
+﻿La génération a démarré 5/22/2014 4:31:13 AM.
+     1>Projet "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\PlayerProfile\PlayerProfile.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt PlayerProfile.cpp
+         PlayerProfile.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\Data.lib" /NOLOGO Debug\PlayerProfile.obj
+         PlayerProfile.vcxproj -> C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\Data.lib
+     1>Génération du projet "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\PlayerProfile\PlayerProfile.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.78

@@ -1,0 +1,25 @@
+﻿La génération a démarré 5/22/2014 11:31:20 PM.
+     1>Projet "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\GamePlay\GamePlay.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ComputerPlayerExpert.cpp
+         ComputerPlayerExpert.cpp
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\gameplay\computerplayerexpert.cpp(24): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\gameplay\computerplayerexpert.cpp(120): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+     1>c:\users\kevin\desktop\cegep\cegep iv\programmation\tp4\gameplay\computerplayerexpert.cpp(212): warning C4715: 'ComputerPlayerExpert::IsBoatDestroyed' : les chemins de contrôle ne retournent pas tous une valeur
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\GamePlay.lib" /NOLOGO Debug\ComputerGameGrid.obj
+         Debug\ComputerPlayer.obj
+         Debug\ComputerPlayerExpert.obj
+         Debug\GameGrid.obj
+         Debug\GoodHit.obj
+         Debug\HumanGameGrid.obj
+         Debug\HumanPlayer.obj
+         Debug\Player.obj
+         Debug\PlayGame.obj
+         Debug\Tile.obj
+         GamePlay.vcxproj -> C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\Debug\GamePlay.lib
+     1>Génération du projet "C:\Users\Kevin\Desktop\Cegep\Cegep IV\Programmation\TP4\GamePlay\GamePlay.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:01.68
