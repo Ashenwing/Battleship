@@ -1,7 +1,7 @@
 Battleship
 ==========
 
-Le jeu de "Battleship" codé en C++, avec un partenaire, sur le courant de plusieurs semaines.
+Fait durant la quatrième session de mon Cégep, deuxième année, dans mon deuxième cours de C++.
 C'était une nouvelle expérience pour nous, d'apprendre à utiliser un programme visuel en C++.
 On avait seulement utilisé la console jusqu'à date, donc j'ai vraiment appris beaucoup en ce qui concerne
 l'utilisation UI en C++.
